@@ -1,4 +1,3 @@
-TypeScript
 'use client';
 
 import { useState } from 'react';
