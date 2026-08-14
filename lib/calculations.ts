@@ -1,4 +1,3 @@
-TypeScript
 export interface LineItem {
   description: string;
   details?: string;

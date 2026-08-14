@@ -1,4 +1,3 @@
-TypeScript
 export const dictionary = {
   es: {
     invoice: "Factura",
