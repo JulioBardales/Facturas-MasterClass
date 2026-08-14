@@ -1,5 +1,4 @@
-TypeScript
-export const BRAND = {
+BRAND = {
   companyName: "Optimization Logistics +",
   country: "Perú",
   logoUrl: "/logo-placeholder.svg",
